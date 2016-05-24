@@ -6,6 +6,9 @@ Want to learn more? [See the wiki.](https://github.com/mbostock/topojson/wiki)
 
 # Changelog
 
+* 0.0.5
+
+    Revert, maps should be external.
 * 0.0.4
 
     Added definitions import for the world map.
