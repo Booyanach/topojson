@@ -2,3 +2,6 @@
 build/*.zip
 examples/
 test/
+lib/
+src/
+.idea/
