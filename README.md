@@ -6,6 +6,9 @@ Want to learn more? [See the wiki.](https://github.com/mbostock/topojson/wiki)
 
 # Changelog
 
+* 0.0.7
+
+    Un-ruin the project structure
 * 0.0.5
 
     Revert, maps should be external.
