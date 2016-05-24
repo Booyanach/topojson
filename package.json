@@ -1,6 +1,6 @@
 {
   "name": "ts-topojson",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Topojson with a typings definition file.",
   "keywords": [
     "typescript",
@@ -19,7 +19,7 @@
   "browser": "build/topojson.d.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mbostock/topojson.git"
+    "url": "https://github.com/scivisum/topojson.git"
   },
   "bin": {
     "topojson": "./bin/topojson",
