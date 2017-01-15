@@ -1,5 +1,4 @@
 *.sublime-*
-build/*.zip
-examples/
+dist/*.zip
 test/
 .idea/
